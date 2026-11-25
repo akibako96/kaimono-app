@@ -1,0 +1,6 @@
+{
+  "name": "スマート買い物リスト",
+  "description": "カレンダー日付選択、カテゴリ管理、2画面構成のリスト作成、買い物チェックモード付き買い物アプリ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
